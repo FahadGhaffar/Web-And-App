@@ -1,0 +1,28 @@
+body{
+
+    background-color: black;
+}
+.name{
+ color: aqua;
+
+}
+
+h3{
+
+    color: aquamarine;
+}
+p , 
+address{
+
+    color: wheat;
+}
+
+.maroon{
+    background-color: maroon;
+}
+
+.black{
+
+background-color: black;
+
+}
